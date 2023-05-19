@@ -1,0 +1,15 @@
+library("RWeka")
+N = read.arff("D:\\Practice\\r\\StudentData.arff")
+print(N)
+print(head(N, 2))
+dim(N)
+names(N)
+N["Name"]
+N["Age"]
+max(Age)
+min(Age)
+sum(Age)
+mean(Age)
+median (sort(Age))
+sd(Age)
+summary(N)

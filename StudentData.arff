@@ -1,0 +1,12 @@
+@relation R_data_frame
+
+@attribute rating numeric
+@attribute Name string
+@attribute ID string
+@attribute Age numeric
+
+@data
+1,Virat,18,34
+2,Rohit,45,35
+3,Ravinder,08,17
+4,hardik,33,34
